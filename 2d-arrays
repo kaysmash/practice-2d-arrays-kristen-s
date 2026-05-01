@@ -1,0 +1,16 @@
+let allScores = [
+    [97, 85, 72],
+    [99, 88, 76],
+    [80, 70, 60]
+]
+
+let theaterSeating = [
+    [K7, K8, K9, K10],
+    [L7, L8, L9, L10],
+    [M7, M8, M9, M10]
+]
+
+let contactList = [
+    ["Samantha Jones", "samj@satc.com", "555-123-4567"],
+    ["Charlotte York", "charlotte@satc.com", "555-987-6543"]
+]
